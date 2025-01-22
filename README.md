@@ -26,14 +26,14 @@ This project demonstrates a responsive HTML and CSS implementation of a nutritio
 - **Google Fonts**: Integrated the 'Open Sans' font for modern and clean text display.
 
 ## File Structure
-|-- index.html       # Main HTML file
+|-- Nutrition.html       # Main HTML file
 |-- Nutrition.css    # CSS file for styling
 
 ## How to Use
 
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
+   git clone [<repository_url>](https://github.com/King-luiz/Nutrition-Facts)
    ```
 
 ## Demo
